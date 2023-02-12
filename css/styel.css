@@ -1,0 +1,227 @@
+body{
+    margin:0 ; 
+text-align: center;
+margin: 0 auto 0 auto;
+}
+.ali {
+    background-color:#E8F9FD;
+
+    width: 100%;
+   height: 500px;
+   text-align: center;
+   margin: 0;
+}
+
+.one{position:absolute;
+left:19%;
+margin-top:.412rem;
+}
+.two{position:absolute;
+    right:15%;
+    margin-top:0px;
+    padding-top: 20px;
+    }
+    
+        .content{
+            position: relative;
+            top:40px;
+            margin: 0;
+            font-weight: normal;
+            line-height: 0;
+            margin-top: 0;
+        }
+        .three{
+    
+            margin: 0 auto 0 auto;
+        margin-bottom: 0;
+        }
+h1{      
+    margin:0;
+    width: 15%;
+    margin: 0 auto 0 auto;
+    color: rgba(218, 0, 0, 0.885);
+  
+    font-family: 'Dancing Script', cursive;
+
+            position: relative;
+            top:40px;
+            font-size: 2.5rem;
+            color:#66BFBF;
+            bottom: line 0;
+        }
+.pg{
+    background-color:#E8F9FD;
+
+    width: 100%;
+   height: 100px;
+   text-align: center;
+   margin: 0px;
+}
+.bd{position:absolute;
+    right:0;
+    width:15%;
+}
+.skill-row{
+width: 50%;
+height:70%;
+margin: 0 auto 0 auto ;
+text-align: left;
+padding-top: 25px;
+   padding-bottom: 50px;
+   line-height: 1;
+
+}
+.contact-me{
+        width: 100%;
+       padding-top: 10px;
+       padding-bottom: 10px;
+       margin-top: 20px;
+       margin-bottom: 20px;
+       padding-style:dotted;
+       background-color: #11999E;
+        border-radius:  10px;
+        box-shadow: inset 2px 2px 2px 3px rgb(66, 34, 34) ,inset -2px -2px -2px -3px red;
+        line-height: 2;
+        
+    }
+
+    .bottom-container{
+        width: 100%;
+        height:20%;
+        margin-top: 30px;
+        color:#11999E;
+        padding-top: 1rem;
+        background-color: aqua;
+        padding-bottom: 1rem;
+        
+    }
+h2{
+font-size: 2.5rem;
+color:#66BFBF;
+
+}
+
+    h3{
+        font-size: 2.5rem;
+        color:#11999E;
+        }
+        .play{
+            margin-top: .125rem;
+            }
+.lap{
+    margin-top: 0;
+   margin-bottom: 0;
+  
+    }
+
+       
+         .pm{
+       
+        width: 30%;
+        float: left;
+        padding-right:20px;
+        
+         }
+       
+        hr{
+            border: none;
+            border-top: 10px dotted #EAF6F6;
+            height: 10px;
+            width: 50%;
+        }
+        .profile{
+            padding-top: 20px;
+        }
+        .no{
+            width: 30%;
+            float: right;
+            margin-left: 30px;
+        }
+.yes{
+    clear: none;
+
+}
+.profile{
+    color: #40514E;
+}
+.hhh{
+    color: #48b5b5;
+}
+.pk{
+    padding: 0;
+}
+.kkk{
+    margin: 0 auto;
+   
+}
+.btn{
+    background: #19cc9f;
+    background-image: -webkit-linear-gradient(top, #19cc9f, #21628a);
+    background-image: -moz-linear-gradient(top, #19cc9f, #21628a);
+    background-image: -ms-linear-gradient(top, #19cc9f, #21628a);
+    background-image: -o-linear-gradient(top, #19cc9f, #21628a);
+    background-image: linear-gradient(to bottom, #19cc9f, #21628a);
+    -webkit-border-radius: 28;
+    -moz-border-radius: 28;
+    border-radius: 28px;
+    font-family: Arial;
+    color: #ffffff;
+    font-size: 20px;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+    margin-bottom: 4rem;
+    margin-top: 4rem;
+ 
+  }
+  
+  .btn:hover {
+    background: #bf2020;
+    background-image: -webkit-linear-gradient(top, #bf2020, #e3eb00);
+    background-image: -moz-linear-gradient(top, #bf2020, #e3eb00);
+    background-image: -ms-linear-gradient(top, #bf2020, #e3eb00);
+    background-image: -o-linear-gradient(top, #bf2020, #e3eb00);
+    background-image: linear-gradient(to bottom, #bf2020, #e3eb00);
+    text-decoration: none; }
+.pro{
+    margin-left: 0;
+  line-height: 2;
+    width:80%;
+    
+    }
+    .omar{
+       
+        width: 30%;
+        margin: 0 auto 0 auto;
+        line-height: 2;
+        }
+        .hi{
+       
+            padding-bottom: 2rem;
+            }
+            .sss{
+                padding-bottom: 1rem;
+                width: 25%;
+                margin: auto;
+                line-height: 2;
+            }
+            .footer-link{
+margin: 30px 20px;
+text-decoration-line: none;
+
+            }
+a:hover{
+    color: #ff1f1f;
+    
+                }
+                .cx{
+                color: #ffffff;
+                font-size: medium;
+                
+                            }
+                            .photo{
+                                margin-top: 30px;
+                            }
+
+
+
+
